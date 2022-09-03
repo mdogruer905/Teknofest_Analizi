@@ -3,11 +3,11 @@
 --------------------------------
 Kullanılan Kütüphaneler
 
-numpy
-pandas
-snscrape
-Top2Vec
-geopandas
-keplergl
-plotly
-textblob
+* numpy
+* pandas
+* snscrape
+* Top2Vec
+* geopandas
+* keplergl
+* plotly
+* textblob
